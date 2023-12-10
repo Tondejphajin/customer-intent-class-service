@@ -8,6 +8,14 @@ The developed model is designed to streamline customer support by accurately ide
 
 ## Progress
 
-[X] Develop the NLP Model (Cover in the course)
-[] Create a webservice using FastAPI (Under development and beyond the scope of the course)
-[] Create a frontend for prototype the user interface (Under development and beyond the scope of the course)
+- [x] Develop the NLP Model (Cover in the course)
+- [ ] Create a webservice using FastAPI (Under development and beyond the scope of the course)
+- [ ] Create a frontend for prototype the user interface (Under development and beyond the scope of the course)
+
+## Slide presentation
+
+[Link to the presentation](https://www.canva.com/design/DAF2jJq4bdw/k6SGzvy0JwS7PLuMD_J6bw/edit?utm_content=DAF2jJq4bdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Video presentation
+
+[Link to the video presentation](https://youtu.be/meRnazbrGg8)
