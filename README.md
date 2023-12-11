@@ -18,4 +18,4 @@ The developed model is designed to streamline customer support by accurately ide
 
 ## Video presentation
 
-[Link to the video presentation](https://youtu.be/meRnazbrGg8)
+[Link to the video presentation](https://youtu.be/lq3Cx5grqhQ)
